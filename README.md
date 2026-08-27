@@ -15,10 +15,6 @@
 <!-- TODO: kendi cümlelerinle güncelle -->
 I'm a Mathematical Engineer passionate about applying deep learning and machine learning to real-world problems — from ESG-driven financial forecasting to healthcare risk modeling. I enjoy turning messy data into models that actually explain something.
 
-- 🔭 Currently working on: ESG & financial performance modeling, patient prioritization, and generative music models
-- 🌱 Learning: time-series deep learning, RAG systems
-- 💬 Ask me about: LSTM, ESG analytics, clustering, healthcare ML
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adar-oztuncer/)
@@ -32,20 +28,19 @@ I'm a Mathematical Engineer passionate about applying deep learning and machine 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 </div>
 
 &nbsp;
 
-## 📌 Featured Projects
+## 📌 Projects
 
 - [**ESG-ve-Finansal-Performans-Modelleme**](https://github.com/adaroztuncer/ESG-ve-Finansal-Performans-Modelleme) — ESG scores × financial performance forecasting with Linear Regression, ML, and LSTM
 - [**patient_prioritization_and_referral_model**](https://github.com/adaroztuncer/patient_prioritization_and_referral_model) — Patient risk segmentation via clustering
