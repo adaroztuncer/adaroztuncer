@@ -27,6 +27,9 @@
     <clipPath id="rounded-dark">
       <rect x="1" y="1" width="1178" height="478" rx="20"/>
     </clipPath>
+    <clipPath id="avatar-clip-dark">
+      <circle cx="0" cy="0" r="58"/>
+    </clipPath>
   </defs>
 
   <g clip-path="url(#rounded-dark)">
@@ -158,8 +161,8 @@
       <text x="0" y="10" text-anchor="middle" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="34" font-weight="700" fill="#f4f6fb">AO</text>
     </g>
 
-    <text x="215.0" y="358.0" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="19" font-weight="700" fill="#f4f6fb">Adar Ozt&#252;ncer</text>
-    <text x="215.0" y="382.0" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" fill="#6d7891" letter-spacing="0.5">MATH ENGINEERING &#183; YTU</text>
+    <text x="215.0" y="358.0" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="19" font-weight="700" fill="#f4f6fb">Adar Oztuncer</text>
+    <text x="215.0" y="382.0" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" fill="#6d7891" letter-spacing="0.5">Mathematical Engineer</text>
 
     <!-- ===== RIGHT PANEL: terminal ===== -->
     <rect x="476" y="96" width="658" height="338" rx="12" fill="rgba(10,14,22,0.72)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
@@ -191,7 +194,7 @@
     </clipPath>
     <text x="502.0" y="198.0" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="14.5" fill="#f4f6fb" clip-path="url(#clip-cmd-dark-1)">cat role.txt</text>
     <text x="520.0" y="220.0" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="13.5" fill="#aab4c8" opacity="0">
-      &#8594; Data Scientist  ·  ML Engineer
+      &#8594; Mathematical Engineer
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.26;0.2933;0.9767;1" dur="15.0s" repeatCount="indefinite"/>
     </text>
     <text x="480.0" y="244.0" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="14.5" fill="#1baf7a" font-weight="600">$</text>
@@ -202,7 +205,7 @@
     </clipPath>
     <text x="502.0" y="244.0" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="14.5" fill="#f4f6fb" clip-path="url(#clip-cmd-dark-2)">cat focus.txt</text>
     <text x="520.0" y="266.0" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="13.5" fill="#aab4c8" opacity="0">
-      &#8594; Deep Learning &amp; Time Series Forecasting
+      &#8594; Data Science / AI / Data Analysis
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4067;0.44;0.9767;1" dur="15.0s" repeatCount="indefinite"/>
     </text>
     <text x="480.0" y="290.0" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="14.5" fill="#1baf7a" font-weight="600">$</text>
