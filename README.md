@@ -23,12 +23,12 @@ I'm a Mathematical Engineering student passionate about applying deep learning a
 - 🔭 Currently working on: ESG & financial performance modeling, patient prioritization, and generative music models
 - 🌱 Learning: time-series deep learning, RAG systems
 - 💬 Ask me about: LSTM, ESG analytics, clustering, healthcare ML
-- 📫 Reach me: *(add your email / LinkedIn here)*
+- 📫 Reach me: *(add your email here)*
 
 <div align="center">
 
-<!-- TODO: linkleri kendi hesaplarınla değiştir -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+<!-- TODO: Gmail / Kaggle linklerini kendi hesaplarınla değiştir -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adar-oztuncer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
 
@@ -57,22 +57,14 @@ I'm a Mathematical Engineering student passionate about applying deep learning a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adaroztuncer&show_icons=true&theme=default&hide_border=true&title_color=2a78d6&icon_color=2a78d6&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaroztuncer&layout=compact&hide_border=true&title_color=2a78d6&text_color=333333&langs_count=8" />
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=adaroztuncer&hide_border=true&background=FFFFFF00&ring=2a78d6&fire=eb6834&currStreakLabel=2a78d6" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adaroztuncer&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="./profile/streak.svg" />
 
 </div>
 
