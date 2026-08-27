@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2A78D6&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%26+Time+Series;Building+AI+for+Finance+%26+Healthcare;Yıldız+Technical+University+-+Math+Engineering" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=adaroztuncer&color=2a78d6&style=flat&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/adaroztuncer?label=Follow&style=flat&color=2a78d6)
-
 </div>
 
 &nbsp;
@@ -23,14 +18,10 @@ I'm a Mathematical Engineering student passionate about applying deep learning a
 - 🔭 Currently working on: ESG & financial performance modeling, patient prioritization, and generative music models
 - 🌱 Learning: time-series deep learning, RAG systems
 - 💬 Ask me about: LSTM, ESG analytics, clustering, healthcare ML
-- 📫 Reach me: *(add your email here)*
 
 <div align="center">
 
-<!-- TODO: Gmail / Kaggle linklerini kendi hesaplarınla değiştir -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adar-oztuncer/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
 
 </div>
 
@@ -48,23 +39,6 @@ I'm a Mathematical Engineering student passionate about applying deep learning a
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-&nbsp;
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="./profile/stats.svg" />
-<img height="165" src="./profile/top-langs.svg" />
-
-</div>
-
-<div align="center">
-
-<img src="./profile/streak.svg" />
 
 </div>
 
