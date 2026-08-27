@@ -42,9 +42,9 @@ I'm a Mathematical Engineer passionate about applying deep learning and machine 
 ## 📌 Projects
 
 - [**ESG-ve-Finansal-Performans-Modelleme**](https://github.com/adaroztuncer/ESG-ve-Finansal-Performans-Modelleme) — ESG scores × financial performance forecasting with Linear Regression, ML, and LSTM
-- [**patient_prioritization_and_referral_model**](https://github.com/adaroztuncer/patient_prioritization_and_referral_model) — Patient risk segmentation via clustering
 - [**Rag_Saglik_Chatbotu**](https://github.com/adaroztuncer/Rag_Saglik_Chatbotu) — RAG-based healthcare chatbot
 - [**melody-generation-lstm**](https://github.com/adaroztuncer/melody-generation-lstm) — LSTM-based melody generation
+- [**ecommerce-system-project**](https://github.com/adaroztuncer/ecommerce_system_project) — Ecommerce System baseline and UML diagrams
 
 &nbsp;
 
