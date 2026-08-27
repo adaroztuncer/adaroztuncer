@@ -11,7 +11,7 @@
 ## 👋 About Me
 
 <!-- TODO: kendi cümlelerinle güncelle -->
-I'm a Mathematical Engineering student passionate about applying deep learning and machine learning to real-world problems — from ESG-driven financial forecasting to healthcare risk modeling. I enjoy turning messy data into models that actually explain something.
+I'm a Mathematical Engineer, passionate about applying deep learning and machine learning to real-world problems — from ESG-driven financial forecasting to healthcare risk modeling. I enjoy turning messy data into models that actually explain something.
 
 - 🔭 Currently working on: ESG & financial performance modeling, patient prioritization, and generative music models
 - 🌱 Learning: time-series deep learning, RAG systems
