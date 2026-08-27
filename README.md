@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <img src="assets/hero-light.svg" alt="Adar Öztüncer hero banner" width="100%" />
+  <img src="assets/hero-light.svg" alt="Adar Öztuncer hero banner" width="100%" />
 </picture>
 
 </div>
