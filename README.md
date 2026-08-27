@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a78d6,100:1baf7a&height=200&section=header&text=Hi%20👋%2C%20I'm%20Adar&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2A78D6&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%26+Time+Series;Building+AI+for+Finance+%26+Healthcare;Yıldız+Technical+University+-+Math+Engineering" alt="Typing SVG" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <img src="assets/hero-light.svg" alt="Adar Öztüncer hero banner" width="100%" />
+</picture>
 
 </div>
 
